@@ -1,0 +1,57 @@
+DeepSeek-V4-Flash/examples/train_deepseek_v4_grpo_mindspeed_vllm_8node_A2.sh
+  s_6e270f623abd8b::t_b857df362aeddd 23,25-27
+  s_6e270f623abd8b::t_7354cc30877759 1-13,19-22,24,28-29,31-32,34-416
+  s_6e270f623abd8b::t_a84d6341c363f3 30
+  s_6e270f623abd8b::t_2b8089b1153bb5 15-17
+  s_6e270f623abd8b::t_3a62241825cff8 14,18
+  s_6e270f623abd8b::t_7c81d20c217fb6 33
+DeepSeek-V4-Flash/examples/runtime_env_A2.yaml
+  s_6e270f623abd8b::t_53cf2bb7b878fa 1-71
+DeepSeek-V4-Flash/examples/ray_start.sh
+  s_6e270f623abd8b::t_ed8c8cdafb9af8 28-29,31-35
+  s_6e270f623abd8b::t_aec475eee5301b 13-16
+DeepSeek-V4-Flash/install_A2.sh
+  s_6e270f623abd8b::t_bb06ec5789d98e 1-74
+  s_6e270f623abd8b::t_eb1102ee98235b 75-82
+DeepSeek-V4-Flash/readme_A2.md
+  s_6e270f623abd8b::t_e773f5126efddc 58,70
+  s_6e270f623abd8b::t_aca6d3863d67d1 88,90-94,96,100-102
+  s_6e270f623abd8b::t_7efab9d4555f04 98
+  s_6e270f623abd8b::t_4ad9a35adc911e 1-44,47-57,59-69,71-87,89,95,97,103-104
+  s_6e270f623abd8b::t_9221a2a83c4e63 45-46
+  s_6e270f623abd8b::t_94313df977f3ed 99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "94cff1b9fc1484be365bffb683209268be780f16",
+  "prompts": {},
+  "humans": {
+    "h_b23a6a8439c0dd": {
+      "author": "unknown"
+    }
+  },
+  "sessions": {
+    "s_6e270f623abd8b": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a9e7b91c75033b25c2c6d9b",
+        "model": "kimi-k3__max"
+      },
+      "human_author": "zxh <18717185834@163.com>",
+      "custom_attributes": {
+        "operation_id": "6a9ea8a3c75033b25c2c6f33",
+        "tool_id": "Edit",
+        "session_id": "6a9e7b91c75033b25c2c6d9b",
+        "client_type": "ide",
+        "runtime_client": "trae-tob-git-ai",
+        "tool_type": "agent",
+        "source_scene": "unknown",
+        "tool_use_id": "6a9ea8a3c75033b25c2c6f33",
+        "edit_kind": "file_edit",
+        "external_session_id": "6a9e7b91c75033b25c2c6d9b",
+        "dedupe_key": "6a9e7b91c75033b25c2c6d9b:6a9ea8a3c75033b25c2c6f33:afterEdit:7e47de72"
+      }
+    }
+  }
+}
