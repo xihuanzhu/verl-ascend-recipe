@@ -1,0 +1,36 @@
+DeepSeek-V4-Flash/install_A2.sh
+  s_6e270f623abd8b::t_5bbfefffc72a92 69
+DeepSeek-V4-Flash/readme_A2.md
+  s_6e270f623abd8b::t_7c3c25e2355003 69
+DeepSeek-V4-Flash/A2_patch/mindspeed-llm-fix-get-transformer-layer-offset.patch
+  s_6e270f623abd8b::t_4963740aad17d7 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "0c2646a31e9cea8abd618c47504017e7bf45df26",
+  "prompts": {},
+  "sessions": {
+    "s_6e270f623abd8b": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a9e7b91c75033b25c2c6d9b",
+        "model": "kimi-k3__max"
+      },
+      "human_author": "zxh <18717185834@163.com>",
+      "custom_attributes": {
+        "runtime_client": "trae-tob-git-ai",
+        "source_scene": "unknown",
+        "tool_use_id": "6aa905e9c75033b25c2c6f4a",
+        "tool_id": "Edit",
+        "client_type": "ide",
+        "external_session_id": "6a9e7b91c75033b25c2c6d9b",
+        "operation_id": "6aa905e9c75033b25c2c6f4a",
+        "session_id": "6a9e7b91c75033b25c2c6d9b",
+        "tool_type": "agent",
+        "edit_kind": "file_edit",
+        "dedupe_key": "6a9e7b91c75033b25c2c6d9b:6aa905e9c75033b25c2c6f4a:afterEdit:7e47de72"
+      }
+    }
+  }
+}
